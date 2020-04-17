@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586827409 source:c:\users\eze-\desktop\facu\guia de ejercicios\tp1-1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
+1586826566 source:c:\users\eze-\desktop\facu\guia de ejercicios\tp1-1.3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"Funciones.h"
+
+1586826102 c:\users\eze-\desktop\facu\guia de ejercicios\tp1-1.3\funciones.h
+
